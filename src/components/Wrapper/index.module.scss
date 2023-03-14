@@ -1,0 +1,10 @@
+.wrapper {
+  width: 80%;
+  margin: 131px auto;
+  display: grid;
+  grid-template-areas:
+    "a a b c"
+    "d e f g"
+    "h i i j"
+    "k k k k";
+}
